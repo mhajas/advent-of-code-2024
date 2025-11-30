@@ -1,0 +1,9 @@
+[package]
+name = "advent-of-code"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1.12.2"
+itertools = "0.14.0"
+gcd = "2.3.0"
